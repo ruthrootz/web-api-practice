@@ -1,0 +1,17 @@
+C:\Users\roldja\source\WebAPIPractice\bin\Debug\netcoreapp3.1\WebAPIPractice.exe
+C:\Users\roldja\source\WebAPIPractice\bin\Debug\netcoreapp3.1\WebAPIPractice.deps.json
+C:\Users\roldja\source\WebAPIPractice\bin\Debug\netcoreapp3.1\WebAPIPractice.runtimeconfig.json
+C:\Users\roldja\source\WebAPIPractice\bin\Debug\netcoreapp3.1\WebAPIPractice.runtimeconfig.dev.json
+C:\Users\roldja\source\WebAPIPractice\bin\Debug\netcoreapp3.1\WebAPIPractice.dll
+C:\Users\roldja\source\WebAPIPractice\bin\Debug\netcoreapp3.1\WebAPIPractice.pdb
+C:\Users\roldja\source\WebAPIPractice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\roldja\source\WebAPIPractice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\roldja\source\WebAPIPractice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\roldja\source\WebAPIPractice\obj\Debug\netcoreapp3.1\WebAPIPractice.csproj.AssemblyReference.cache
+C:\Users\roldja\source\WebAPIPractice\obj\Debug\netcoreapp3.1\WebAPIPractice.AssemblyInfoInputs.cache
+C:\Users\roldja\source\WebAPIPractice\obj\Debug\netcoreapp3.1\WebAPIPractice.AssemblyInfo.cs
+C:\Users\roldja\source\WebAPIPractice\obj\Debug\netcoreapp3.1\WebAPIPractice.csproj.CoreCompileInputs.cache
+C:\Users\roldja\source\WebAPIPractice\obj\Debug\netcoreapp3.1\WebAPIPractice.csproj.CopyComplete
+C:\Users\roldja\source\WebAPIPractice\obj\Debug\netcoreapp3.1\WebAPIPractice.dll
+C:\Users\roldja\source\WebAPIPractice\obj\Debug\netcoreapp3.1\WebAPIPractice.pdb
+C:\Users\roldja\source\WebAPIPractice\obj\Debug\netcoreapp3.1\WebAPIPractice.genruntimeconfig.cache
